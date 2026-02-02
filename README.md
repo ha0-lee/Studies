@@ -2,7 +2,7 @@
 
 📅 2026년 2월 2일 학습일지
 
-\- **주제:** 앤서블 inventory, yaml, modules, playbook, variable, condition, loop학습 및 정리
+\- **주제:** 앤서블 inventory, yaml, modules, playbook, variable, condition, loop 학습 및 정리
 
 
 -----
