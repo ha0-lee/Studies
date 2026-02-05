@@ -1,0 +1,3 @@
+custom_msg: "Ansible makes me depressed hahaha"
+php_upload_max_filesize: "16M"
+php_post_max_size: "16M"
