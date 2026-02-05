@@ -4,7 +4,7 @@
 
 \- **주제:** Ansible을 사용해 Nginx + PHP-FPM 웹 서버를 자동으로 구성 예제 및 Ansible Role 구조를 이해하고 기본적인 패키지 설치, 서비스 관리, 템플릿 사용을 연습
 
-📁 디렉터리 주조
+📁 디렉터리 구조
 
 ├── playbook.yml
 └── roles
