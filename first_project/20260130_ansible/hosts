@@ -1,2 +1,0 @@
-[list]
-localhost ansible_connection=local
